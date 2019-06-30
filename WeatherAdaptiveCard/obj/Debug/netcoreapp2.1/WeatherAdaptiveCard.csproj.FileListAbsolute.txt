@@ -1,0 +1,14 @@
+C:\Users\doga\Documents\Visual Studio 2017\Projects\WeatherAdaptiveCard\WeatherAdaptiveCard\bin\Debug\netcoreapp2.1\WeatherAdaptiveCard.deps.json
+C:\Users\doga\Documents\Visual Studio 2017\Projects\WeatherAdaptiveCard\WeatherAdaptiveCard\bin\Debug\netcoreapp2.1\WeatherAdaptiveCard.runtimeconfig.json
+C:\Users\doga\Documents\Visual Studio 2017\Projects\WeatherAdaptiveCard\WeatherAdaptiveCard\bin\Debug\netcoreapp2.1\WeatherAdaptiveCard.runtimeconfig.dev.json
+C:\Users\doga\Documents\Visual Studio 2017\Projects\WeatherAdaptiveCard\WeatherAdaptiveCard\bin\Debug\netcoreapp2.1\WeatherAdaptiveCard.dll
+C:\Users\doga\Documents\Visual Studio 2017\Projects\WeatherAdaptiveCard\WeatherAdaptiveCard\obj\Debug\netcoreapp2.1\WeatherAdaptiveCard.csprojAssemblyReference.cache
+C:\Users\doga\Documents\Visual Studio 2017\Projects\WeatherAdaptiveCard\WeatherAdaptiveCard\obj\Debug\netcoreapp2.1\WeatherAdaptiveCard.csproj.CoreCompileInputs.cache
+C:\Users\doga\Documents\Visual Studio 2017\Projects\WeatherAdaptiveCard\WeatherAdaptiveCard\obj\Debug\netcoreapp2.1\WeatherAdaptiveCard.RazorAssemblyInfo.cache
+C:\Users\doga\Documents\Visual Studio 2017\Projects\WeatherAdaptiveCard\WeatherAdaptiveCard\obj\Debug\netcoreapp2.1\WeatherAdaptiveCard.RazorAssemblyInfo.cs
+C:\Users\doga\Documents\Visual Studio 2017\Projects\WeatherAdaptiveCard\WeatherAdaptiveCard\obj\Debug\netcoreapp2.1\WeatherAdaptiveCard.AssemblyInfoInputs.cache
+C:\Users\doga\Documents\Visual Studio 2017\Projects\WeatherAdaptiveCard\WeatherAdaptiveCard\obj\Debug\netcoreapp2.1\WeatherAdaptiveCard.AssemblyInfo.cs
+C:\Users\doga\Documents\Visual Studio 2017\Projects\WeatherAdaptiveCard\WeatherAdaptiveCard\obj\Debug\netcoreapp2.1\WeatherAdaptiveCard.RazorTargetAssemblyInfo.cache
+C:\Users\doga\Documents\Visual Studio 2017\Projects\WeatherAdaptiveCard\WeatherAdaptiveCard\bin\Debug\netcoreapp2.1\WeatherAdaptiveCard.pdb
+C:\Users\doga\Documents\Visual Studio 2017\Projects\WeatherAdaptiveCard\WeatherAdaptiveCard\obj\Debug\netcoreapp2.1\WeatherAdaptiveCard.dll
+C:\Users\doga\Documents\Visual Studio 2017\Projects\WeatherAdaptiveCard\WeatherAdaptiveCard\obj\Debug\netcoreapp2.1\WeatherAdaptiveCard.pdb
