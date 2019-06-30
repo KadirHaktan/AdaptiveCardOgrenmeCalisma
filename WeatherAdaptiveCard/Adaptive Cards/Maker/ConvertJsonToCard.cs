@@ -18,5 +18,7 @@ namespace WeatherAdaptiveCard.Adaptive_Cards.Maker
                 Content = AdaptiveCard.FromJson(File.ReadAllText(path)).Card
             };
         }
+
+        
     }
 }
